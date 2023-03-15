@@ -5,7 +5,7 @@ import com.baomidou.mybatisplus.annotation.TableField;
 import java.util.List;
 
 public class User {
-    private int id;
+    private Integer id;
     private String username;
     private String password;
     private String birthday;
